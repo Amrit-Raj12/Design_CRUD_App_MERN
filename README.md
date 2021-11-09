@@ -5,8 +5,7 @@
    
 ##RUN PROJECT 
 
-Before run my project please make sure 'Nodejs' is installed on your system![Uploading Design Post Page.png…]()
-
+Before run my project please make sure 'Nodejs' is installed on your system!
 
 For downloading Nodejs go to :-
 
