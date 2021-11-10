@@ -21,9 +21,18 @@ Now type
 
 For 'Design_CRUD_App_MERN' cmd
 
+>npm install
+
+After all packages installed type
+
 >node index.js
 
 For 'Design_CRUD_App_MERN/client'
+
+>npm install
+
+After all packages installed type
+
 >npm start
 
 
